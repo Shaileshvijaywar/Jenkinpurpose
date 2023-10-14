@@ -1,0 +1,2 @@
+# Jenkinpurpose
+to understand genkin
